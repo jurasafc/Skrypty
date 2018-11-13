@@ -1,6 +1,6 @@
 //Liczenie danego znaku w wyrazie
 //Jerzy Debowski
-//12.11.2018
+//13.11.2018
 
 #include <stdio.h>
 #include <stdlib.h>
