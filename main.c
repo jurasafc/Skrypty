@@ -11,7 +11,7 @@ int main()
     char wyraz[15];
     int i, suma=0,a,tablica[50],duze=0,male=0,cyfry=0;
     printf("Podaj wyraz: ");
-    scanf("%s",wyraz);
+    scanf("%s",wyraz)
     getchar();
     printf("Jaki znak chcesz policzyc: ");
     scanf("%s",znak);
